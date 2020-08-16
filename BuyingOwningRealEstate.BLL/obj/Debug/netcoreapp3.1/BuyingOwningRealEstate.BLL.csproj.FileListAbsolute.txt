@@ -1,0 +1,9 @@
+G:\Solution\buying-and-owning-real-estate\BuyingOwningRealEstate.BLL\obj\Debug\netcoreapp3.1\BuyingOwningRealEstate.BLL.csprojAssemblyReference.cache
+G:\Solution\buying-and-owning-real-estate\BuyingOwningRealEstate.BLL\obj\Debug\netcoreapp3.1\BuyingOwningRealEstate.BLL.AssemblyInfoInputs.cache
+G:\Solution\buying-and-owning-real-estate\BuyingOwningRealEstate.BLL\obj\Debug\netcoreapp3.1\BuyingOwningRealEstate.BLL.AssemblyInfo.cs
+G:\Solution\buying-and-owning-real-estate\BuyingOwningRealEstate.BLL\obj\Debug\netcoreapp3.1\BuyingOwningRealEstate.BLL.csproj.CoreCompileInputs.cache
+G:\Solution\buying-and-owning-real-estate\BuyingOwningRealEstate.BLL\bin\Debug\netcoreapp3.1\BuyingOwningRealEstate.BLL.deps.json
+G:\Solution\buying-and-owning-real-estate\BuyingOwningRealEstate.BLL\bin\Debug\netcoreapp3.1\BuyingOwningRealEstate.BLL.dll
+G:\Solution\buying-and-owning-real-estate\BuyingOwningRealEstate.BLL\bin\Debug\netcoreapp3.1\BuyingOwningRealEstate.BLL.pdb
+G:\Solution\buying-and-owning-real-estate\BuyingOwningRealEstate.BLL\obj\Debug\netcoreapp3.1\BuyingOwningRealEstate.BLL.dll
+G:\Solution\buying-and-owning-real-estate\BuyingOwningRealEstate.BLL\obj\Debug\netcoreapp3.1\BuyingOwningRealEstate.BLL.pdb
